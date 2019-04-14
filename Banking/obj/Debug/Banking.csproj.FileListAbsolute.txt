@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Banking\Banking\obj\Debug\Banking.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Banking\Banking\obj\Debug\Banking.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Banking\Banking\bin\Debug\Banking.exe.config
+C:\Users\User\source\repos\Banking\Banking\bin\Debug\Banking.exe
+C:\Users\User\source\repos\Banking\Banking\bin\Debug\Banking.pdb
+C:\Users\User\source\repos\Banking\Banking\obj\Debug\Banking.exe
+C:\Users\User\source\repos\Banking\Banking\obj\Debug\Banking.pdb
